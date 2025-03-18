@@ -10,6 +10,8 @@ Welcome to the **Raycasting Maze**! 🔦🕹️ This project simulates a **rayca
 - The **raycasting engine** simulates light rays bouncing off walls to create a 2D depth illusion.
 - The player can **move and rotate** to explore the maze.
 - A **real-time updating map** 🗺️ provides a reference so you don’t get lost!
+- Play Again Button to replay the same Maze
+- Restart Button to start a generate a new Maze 
 
 ---
 
@@ -45,8 +47,13 @@ Welcome to the **Raycasting Maze**! 🔦🕹️ This project simulates a **rayca
 ## 📸 Screenshots
 
 ### Landing Page:
-![Landing Page]()
+![Landing Page](https://github.com/Vedant-0102/RayCasting-Maze/blob/main/assets/Landing.png)
 
+### Map and RayCasting:
+![Map and RayCasting](https://github.com/Vedant-0102/RayCasting-Maze/blob/main/assets/Map%20and%20Ray%20Casting.png)
+
+### Win:
+![Win](https://github.com/Vedant-0102/RayCasting-Maze/blob/main/assets/Win.png)
 
 ---
 
